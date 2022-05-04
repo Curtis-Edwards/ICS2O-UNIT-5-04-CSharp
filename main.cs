@@ -2,8 +2,8 @@ using System;
 
 class Program
 {
-   public static void Main(string[] args)
-   {
+    public static void Main(string[] args)
+    {
         // This function accepts user input
         int age;
         int weekday;
@@ -28,5 +28,5 @@ class Program
         }
 
         Console.WriteLine("\nDone.");
-   }
+    }
 }
