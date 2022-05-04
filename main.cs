@@ -15,6 +15,13 @@ class Program
         age = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("");
         Console.Write("day of the week: ");
+        // Monday - 1
+        // Tuesday - 2
+        // Wednesday - 3
+        // Thursday - 4
+        // Friday - 5
+        // Sunday - 6
+        // Saturday - 7
         weekday = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("");
 
